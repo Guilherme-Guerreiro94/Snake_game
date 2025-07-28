@@ -234,7 +234,7 @@ document.addEventListener("keydown", ({ key }) => {
 
 
 
-// Usa as setas do teclado para mudar a direção da cobra.
+// Usa as setas do teclado para mudar a direção da cobra....
 
 // Impede direção contrária para evitar auto-colisão.
 
